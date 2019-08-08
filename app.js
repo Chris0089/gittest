@@ -7,7 +7,7 @@ function getSomeStuff(someX, someY){
     console.log(x);
     console.log("I'm hardcoding mre stuff here");
 }
-function thirdStuff(){
+function thirdStuff(newX){
     let x="adding stuff here";
     console.log(x);
 }
